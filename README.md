@@ -6,7 +6,7 @@ Fluentd is an open source data collector, which lets you unify the data collecti
 # TL;DR
 
 ```console
-$ docker run --name fluentd manhhailua/fluentd:latest
+$ docker run --name fluentd bitnami/fluentd:latest
 ```
 
 You can find the available configuration options in the [Environment Variables](#environment-variables) section.
